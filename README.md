@@ -1,4 +1,4 @@
-# realtime people count with alert
+# Raltime people count with alert
 ---
 
 # 👥 Real-Time People Counting with Alert System
