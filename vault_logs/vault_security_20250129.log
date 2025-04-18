@@ -1,0 +1,534 @@
+2025-01-29 10:38:33,973 - INFO - Logging system initialized successfully
+2025-01-29 10:38:37,753 - INFO - Starting Vault Security System
+2025-01-29 10:38:45,293 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:38:45,294 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:38:45,296 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:38:45,296 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:38:45,347 - INFO - Started recording violation clip: violation_clips\violation_20250129_103845.mp4
+2025-01-29 10:38:48,302 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:38:48,352 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:38:48,354 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:38:48,354 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:38:51,308 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:38:51,321 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:38:51,322 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:38:51,323 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:38:53,850 - INFO - Stopped recording violation clip
+2025-01-29 10:38:54,599 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:38:54,610 - INFO - Started recording violation clip: violation_clips\violation_20250129_103854.mp4
+2025-01-29 10:38:54,623 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:38:54,624 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:38:54,625 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:38:56,540 - INFO - Stopped recording violation clip
+2025-01-29 10:39:03,300 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:39:03,300 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:03,302 - INFO - Started recording violation clip: violation_clips\violation_20250129_103903.mp4
+2025-01-29 10:39:03,302 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:03,303 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:39:06,326 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:39:06,327 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:06,329 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:06,329 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:39:09,386 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:39:09,386 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:09,388 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:09,389 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:39:11,372 - INFO - Stopped recording violation clip
+2025-01-29 10:39:12,213 - INFO - Started recording violation clip: violation_clips\violation_20250129_103912.mp4
+2025-01-29 10:39:12,394 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:39:12,394 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:12,397 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:12,397 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:39:15,403 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:39:15,403 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:15,405 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:39:15,405 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:43:43,343 - INFO - Logging system initialized successfully
+2025-01-29 10:43:43,343 - INFO - Initializing RTSP camera connection...
+2025-01-29 10:43:45,394 - INFO - Successfully connected to RTSP stream
+2025-01-29 10:43:45,416 - INFO - Starting Vault Security System
+2025-01-29 10:43:50,992 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:43:50,994 - INFO - Started recording violation clip: violation_clips\violation_20250129_104350.mp4
+2025-01-29 10:43:51,021 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:43:51,023 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:43:51,023 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:43:54,031 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:43:54,031 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:43:54,033 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:43:54,034 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:43:54,648 - INFO - Stopped recording violation clip
+2025-01-29 10:43:55,785 - INFO - Started recording violation clip: violation_clips\violation_20250129_104355.mp4
+2025-01-29 10:43:55,894 - INFO - Stopped recording violation clip
+2025-01-29 10:43:55,933 - INFO - Started recording violation clip: violation_clips\violation_20250129_104355.mp4
+2025-01-29 10:43:55,984 - INFO - Stopped recording violation clip
+2025-01-29 10:43:56,950 - INFO - Started recording violation clip: violation_clips\violation_20250129_104356.mp4
+2025-01-29 10:43:56,994 - INFO - Stopped recording violation clip
+2025-01-29 10:43:57,047 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:43:57,048 - INFO - Started recording violation clip: violation_clips\violation_20250129_104357.mp4
+2025-01-29 10:43:57,069 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:43:57,072 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:43:57,073 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:43:57,150 - INFO - Stopped recording violation clip
+2025-01-29 10:43:57,395 - INFO - Started recording violation clip: violation_clips\violation_20250129_104357.mp4
+2025-01-29 10:43:57,750 - INFO - Stopped recording violation clip
+2025-01-29 10:43:57,795 - INFO - Started recording violation clip: violation_clips\violation_20250129_104357.mp4
+2025-01-29 10:43:58,408 - INFO - Stopped recording violation clip
+2025-01-29 10:43:58,808 - INFO - Started recording violation clip: violation_clips\violation_20250129_104358.mp4
+2025-01-29 10:43:58,867 - INFO - Stopped recording violation clip
+2025-01-29 10:43:59,312 - INFO - Started recording violation clip: violation_clips\violation_20250129_104359.mp4
+2025-01-29 10:43:59,367 - INFO - Stopped recording violation clip
+2025-01-29 10:43:59,411 - INFO - Started recording violation clip: violation_clips\violation_20250129_104359.mp4
+2025-01-29 10:43:59,559 - INFO - Stopped recording violation clip
+2025-01-29 10:43:59,619 - INFO - Started recording violation clip: violation_clips\violation_20250129_104359.mp4
+2025-01-29 10:43:59,669 - INFO - Stopped recording violation clip
+2025-01-29 10:44:03,659 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:44:03,659 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:03,660 - INFO - Started recording violation clip: violation_clips\violation_20250129_104403.mp4
+2025-01-29 10:44:03,661 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:03,662 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:44:04,315 - INFO - Stopped recording violation clip
+2025-01-29 10:44:04,609 - INFO - Started recording violation clip: violation_clips\violation_20250129_104404.mp4
+2025-01-29 10:44:05,409 - INFO - Stopped recording violation clip
+2025-01-29 10:44:05,452 - INFO - Started recording violation clip: violation_clips\violation_20250129_104405.mp4
+2025-01-29 10:44:05,610 - INFO - Stopped recording violation clip
+2025-01-29 10:44:06,210 - INFO - Started recording violation clip: violation_clips\violation_20250129_104406.mp4
+2025-01-29 10:44:06,319 - INFO - Stopped recording violation clip
+2025-01-29 10:44:06,409 - INFO - Started recording violation clip: violation_clips\violation_20250129_104406.mp4
+2025-01-29 10:44:06,660 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:44:06,660 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:06,662 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:06,662 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:44:07,350 - INFO - Stopped recording violation clip
+2025-01-29 10:44:07,443 - INFO - Started recording violation clip: violation_clips\violation_20250129_104407.mp4
+2025-01-29 10:44:07,495 - INFO - Stopped recording violation clip
+2025-01-29 10:44:07,556 - INFO - Started recording violation clip: violation_clips\violation_20250129_104407.mp4
+2025-01-29 10:44:07,617 - INFO - Stopped recording violation clip
+2025-01-29 10:44:07,817 - INFO - Started recording violation clip: violation_clips\violation_20250129_104407.mp4
+2025-01-29 10:44:08,017 - INFO - Stopped recording violation clip
+2025-01-29 10:44:08,070 - INFO - Started recording violation clip: violation_clips\violation_20250129_104408.mp4
+2025-01-29 10:44:08,220 - INFO - Stopped recording violation clip
+2025-01-29 10:44:08,618 - INFO - Started recording violation clip: violation_clips\violation_20250129_104408.mp4
+2025-01-29 10:44:09,696 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:44:09,696 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:09,698 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:09,698 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:44:11,634 - INFO - Stopped recording violation clip
+2025-01-29 10:44:26,341 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:44:26,341 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:26,343 - INFO - Started recording violation clip: violation_clips\violation_20250129_104426.mp4
+2025-01-29 10:44:26,343 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:44:26,344 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:44:26,639 - INFO - Stopped recording violation clip
+2025-01-29 10:44:26,690 - INFO - Started recording violation clip: violation_clips\violation_20250129_104426.mp4
+2025-01-29 10:44:27,544 - INFO - Shutting down Vault Security System
+2025-01-29 10:44:27,545 - INFO - Stopped recording violation clip
+2025-01-29 10:53:35,223 - INFO - Logging system initialized successfully
+2025-01-29 10:53:35,223 - INFO - Initializing RTSP camera connection...
+2025-01-29 10:53:37,341 - INFO - Successfully connected to RTSP stream
+2025-01-29 10:53:37,400 - INFO - Starting Vault Security System
+2025-01-29 10:53:38,260 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:53:38,260 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:38,262 - INFO - Started recording violation clip: violation_clips\violation_20250129_105338.mp4
+2025-01-29 10:53:38,262 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:38,263 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:53:38,359 - INFO - Stopped recording violation clip
+2025-01-29 10:53:38,420 - INFO - Started recording violation clip: violation_clips\violation_20250129_105338.mp4
+2025-01-29 10:53:38,578 - INFO - Stopped recording violation clip
+2025-01-29 10:53:40,568 - INFO - Started recording violation clip: violation_clips\violation_20250129_105340.mp4
+2025-01-29 10:53:41,340 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:53:41,356 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-29 10:53:41,357 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:41,358 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:53:41,902 - INFO - Stopped recording violation clip
+2025-01-29 10:53:43,640 - INFO - Started recording violation clip: violation_clips\violation_20250129_105343.mp4
+2025-01-29 10:53:43,785 - INFO - Stopped recording violation clip
+2025-01-29 10:53:48,071 - WARNING - Security violation detected: 1 people present
+2025-01-29 10:53:48,071 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:48,074 - INFO - Started recording violation clip: violation_clips\violation_20250129_105348.mp4
+2025-01-29 10:53:48,074 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:48,075 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:53:48,129 - INFO - Stopped recording violation clip
+2025-01-29 10:53:53,471 - WARNING - Security violation detected: 0 people present
+2025-01-29 10:53:53,471 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:53,473 - INFO - Started recording violation clip: violation_clips\violation_20250129_105353.mp4
+2025-01-29 10:53:53,474 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:53,475 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:53:53,528 - INFO - Stopped recording violation clip
+2025-01-29 10:53:57,903 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:53:57,903 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:57,904 - INFO - Started recording violation clip: violation_clips\violation_20250129_105357.mp4
+2025-01-29 10:53:57,904 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:53:57,905 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:53:58,603 - INFO - Stopped recording violation clip
+2025-01-29 10:53:58,702 - INFO - Started recording violation clip: violation_clips\violation_20250129_105358.mp4
+2025-01-29 10:53:58,811 - INFO - Stopped recording violation clip
+2025-01-29 10:54:02,121 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:54:02,121 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:02,131 - INFO - Started recording violation clip: violation_clips\violation_20250129_105402.mp4
+2025-01-29 10:54:02,132 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:02,133 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:03,473 - INFO - Stopped recording violation clip
+2025-01-29 10:54:03,572 - INFO - Started recording violation clip: violation_clips\violation_20250129_105403.mp4
+2025-01-29 10:54:05,150 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:54:05,150 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:05,152 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:05,152 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:08,192 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:54:08,193 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:08,194 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:08,195 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:11,276 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:54:11,276 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:11,277 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:11,278 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:11,481 - INFO - Stopped recording violation clip
+2025-01-29 10:54:11,533 - INFO - Started recording violation clip: violation_clips\violation_20250129_105411.mp4
+2025-01-29 10:54:14,332 - WARNING - Security violation detected: 3 people present
+2025-01-29 10:54:14,332 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:14,334 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:14,334 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:16,781 - INFO - Stopped recording violation clip
+2025-01-29 10:54:16,841 - INFO - Started recording violation clip: violation_clips\violation_20250129_105416.mp4
+2025-01-29 10:54:17,333 - WARNING - Security violation detected: 5 people present
+2025-01-29 10:54:17,333 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:17,335 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-29 10:54:17,335 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-29 10:54:17,989 - INFO - Shutting down Vault Security System
+2025-01-29 10:54:17,990 - INFO - Stopped recording violation clip
+2025-01-30 10:46:52,310 - INFO - Logging system initialized successfully
+2025-01-30 10:46:54,350 - INFO - Starting Vault Security System
+2025-01-30 10:46:55,338 - WARNING - Security violation detected: 0 people present
+2025-01-30 10:46:55,341 - INFO - Started recording violation clip: violation_clips\violation_20250130_104655.mp4
+2025-01-30 10:46:58,344 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:01,347 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:01,348 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:01,350 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:01,350 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:04,351 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:04,351 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:04,353 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:04,353 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:06,473 - INFO - Stopped recording violation clip
+2025-01-30 10:47:06,607 - INFO - Started recording violation clip: violation_clips\violation_20250130_104706.mp4
+2025-01-30 10:47:06,691 - INFO - Stopped recording violation clip
+2025-01-30 10:47:06,721 - INFO - Started recording violation clip: violation_clips\violation_20250130_104706.mp4
+2025-01-30 10:47:06,828 - INFO - Stopped recording violation clip
+2025-01-30 10:47:06,910 - INFO - Started recording violation clip: violation_clips\violation_20250130_104706.mp4
+2025-01-30 10:47:07,018 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,072 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,190 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,247 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,284 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,312 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,351 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,408 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:07,409 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:07,410 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,410 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:07,411 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:07,451 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,664 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,732 - INFO - Stopped recording violation clip
+2025-01-30 10:47:07,787 - INFO - Started recording violation clip: violation_clips\violation_20250130_104707.mp4
+2025-01-30 10:47:07,865 - INFO - Stopped recording violation clip
+2025-01-30 10:47:08,406 - INFO - Started recording violation clip: violation_clips\violation_20250130_104708.mp4
+2025-01-30 10:47:08,489 - INFO - Stopped recording violation clip
+2025-01-30 10:47:08,711 - INFO - Started recording violation clip: violation_clips\violation_20250130_104708.mp4
+2025-01-30 10:47:08,746 - INFO - Stopped recording violation clip
+2025-01-30 10:47:08,903 - INFO - Started recording violation clip: violation_clips\violation_20250130_104708.mp4
+2025-01-30 10:47:08,980 - INFO - Stopped recording violation clip
+2025-01-30 10:47:09,142 - INFO - Started recording violation clip: violation_clips\violation_20250130_104709.mp4
+2025-01-30 10:47:09,285 - INFO - Stopped recording violation clip
+2025-01-30 10:47:09,314 - INFO - Started recording violation clip: violation_clips\violation_20250130_104709.mp4
+2025-01-30 10:47:09,347 - INFO - Stopped recording violation clip
+2025-01-30 10:47:09,403 - INFO - Started recording violation clip: violation_clips\violation_20250130_104709.mp4
+2025-01-30 10:47:09,444 - INFO - Stopped recording violation clip
+2025-01-30 10:47:09,510 - INFO - Started recording violation clip: violation_clips\violation_20250130_104709.mp4
+2025-01-30 10:47:09,585 - INFO - Stopped recording violation clip
+2025-01-30 10:47:10,112 - INFO - Started recording violation clip: violation_clips\violation_20250130_104710.mp4
+2025-01-30 10:47:10,200 - INFO - Stopped recording violation clip
+2025-01-30 10:47:10,457 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:10,459 - INFO - Started recording violation clip: violation_clips\violation_20250130_104710.mp4
+2025-01-30 10:47:10,575 - INFO - Stopped recording violation clip
+2025-01-30 10:47:10,625 - INFO - Started recording violation clip: violation_clips\violation_20250130_104710.mp4
+2025-01-30 10:47:10,734 - INFO - Stopped recording violation clip
+2025-01-30 10:47:11,016 - INFO - Started recording violation clip: violation_clips\violation_20250130_104711.mp4
+2025-01-30 10:47:11,228 - INFO - Stopped recording violation clip
+2025-01-30 10:47:11,335 - INFO - Started recording violation clip: violation_clips\violation_20250130_104711.mp4
+2025-01-30 10:47:11,442 - INFO - Stopped recording violation clip
+2025-01-30 10:47:12,547 - INFO - Started recording violation clip: violation_clips\violation_20250130_104712.mp4
+2025-01-30 10:47:12,592 - INFO - Stopped recording violation clip
+2025-01-30 10:47:13,065 - INFO - Started recording violation clip: violation_clips\violation_20250130_104713.mp4
+2025-01-30 10:47:13,149 - INFO - Stopped recording violation clip
+2025-01-30 10:47:13,211 - INFO - Started recording violation clip: violation_clips\violation_20250130_104713.mp4
+2025-01-30 10:47:13,364 - INFO - Stopped recording violation clip
+2025-01-30 10:47:13,421 - INFO - Started recording violation clip: violation_clips\violation_20250130_104713.mp4
+2025-01-30 10:47:13,458 - INFO - Stopped recording violation clip
+2025-01-30 10:47:13,776 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:13,778 - INFO - Started recording violation clip: violation_clips\violation_20250130_104713.mp4
+2025-01-30 10:47:13,863 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,256 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:15,301 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,332 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:15,374 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,561 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:15,600 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,625 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:15,663 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,738 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:15,781 - INFO - Stopped recording violation clip
+2025-01-30 10:47:15,930 - INFO - Started recording violation clip: violation_clips\violation_20250130_104715.mp4
+2025-01-30 10:47:16,464 - INFO - Stopped recording violation clip
+2025-01-30 10:47:16,504 - INFO - Started recording violation clip: violation_clips\violation_20250130_104716.mp4
+2025-01-30 10:47:16,542 - INFO - Stopped recording violation clip
+2025-01-30 10:47:16,571 - INFO - Started recording violation clip: violation_clips\violation_20250130_104716.mp4
+2025-01-30 10:47:16,612 - INFO - Stopped recording violation clip
+2025-01-30 10:47:16,703 - INFO - Started recording violation clip: violation_clips\violation_20250130_104716.mp4
+2025-01-30 10:47:16,779 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:16,780 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:16,781 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:16,782 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:16,818 - INFO - Stopped recording violation clip
+2025-01-30 10:47:26,873 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:26,873 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:26,875 - INFO - Started recording violation clip: violation_clips\violation_20250130_104726.mp4
+2025-01-30 10:47:26,876 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:26,877 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:29,904 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:32,920 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:47:32,920 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:32,922 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:47:32,922 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:47:33,000 - INFO - Shutting down Vault Security System
+2025-01-30 10:47:33,002 - INFO - Stopped recording violation clip
+2025-01-30 10:49:55,204 - INFO - Logging system initialized successfully
+2025-01-30 10:49:56,969 - INFO - Starting Vault Security System
+2025-01-30 10:49:57,699 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:49:57,699 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:49:57,701 - INFO - Started recording violation clip: violation_clips\violation_20250130_104957.mp4
+2025-01-30 10:49:57,702 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:49:57,702 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:50:00,725 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:50:00,725 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:50:00,726 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:50:00,727 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-30 10:50:03,758 - WARNING - Security violation detected: 1 people present
+2025-01-30 10:50:03,758 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:50:03,760 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-30 10:50:03,760 - WARNING - Failed to close the file: assets/alarm.wav

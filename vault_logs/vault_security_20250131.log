@@ -1,0 +1,67 @@
+2025-01-31 10:36:09,848 - INFO - Logging system initialized successfully
+2025-01-31 10:36:12,551 - INFO - Starting Vault Security System
+2025-01-31 10:36:17,245 - WARNING - Security violation detected: 3 people present
+2025-01-31 10:36:17,245 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSi2i3i0rh.wav - use other filenames with only safe characters to avoid this.
+2025-01-31 10:36:17,301 - INFO - Started recording violation clip: violation_clips\violation_20250131_103617.mp4
+2025-01-31 10:36:17,352 - INFO - Stopped recording violation clip
+2025-01-31 10:36:17,505 - INFO - Started recording violation clip: violation_clips\violation_20250131_103617.mp4
+2025-01-31 10:36:17,554 - INFO - Stopped recording violation clip
+2025-01-31 10:36:18,054 - INFO - Started recording violation clip: violation_clips\violation_20250131_103618.mp4
+2025-01-31 10:36:18,101 - INFO - Stopped recording violation clip
+2025-01-31 10:36:18,405 - INFO - Started recording violation clip: violation_clips\violation_20250131_103618.mp4
+2025-01-31 10:36:18,495 - INFO - Stopped recording violation clip
+2025-01-31 10:36:26,353 - WARNING - Security violation detected: 3 people present
+2025-01-31 10:36:26,354 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PS4jrloulf.wav - use other filenames with only safe characters to avoid this.
+2025-01-31 10:36:26,354 - INFO - Started recording violation clip: violation_clips\violation_20250131_103626.mp4
+2025-01-31 10:36:26,414 - INFO - Stopped recording violation clip
+2025-01-31 10:36:26,594 - INFO - Started recording violation clip: violation_clips\violation_20250131_103626.mp4
+2025-01-31 10:36:27,747 - INFO - Stopped recording violation clip
+2025-01-31 10:36:27,812 - INFO - Started recording violation clip: violation_clips\violation_20250131_103627.mp4
+2025-01-31 10:36:27,866 - INFO - Stopped recording violation clip
+2025-01-31 10:36:27,902 - INFO - Started recording violation clip: violation_clips\violation_20250131_103627.mp4
+2025-01-31 10:36:27,948 - INFO - Stopped recording violation clip
+2025-01-31 10:36:28,051 - INFO - Started recording violation clip: violation_clips\violation_20250131_103628.mp4
+2025-01-31 10:36:28,149 - INFO - Stopped recording violation clip
+2025-01-31 10:36:28,857 - INFO - Started recording violation clip: violation_clips\violation_20250131_103628.mp4
+2025-01-31 10:36:28,902 - INFO - Stopped recording violation clip
+2025-01-31 10:36:30,465 - WARNING - Security violation detected: 3 people present
+2025-01-31 10:36:30,465 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSw4ilqx0i.wav - use other filenames with only safe characters to avoid this.
+2025-01-31 10:36:30,467 - INFO - Started recording violation clip: violation_clips\violation_20250131_103630.mp4
+2025-01-31 10:36:30,519 - INFO - Stopped recording violation clip
+2025-01-31 10:36:30,729 - INFO - Started recording violation clip: violation_clips\violation_20250131_103630.mp4
+2025-01-31 10:36:30,772 - INFO - Stopped recording violation clip
+2025-01-31 10:36:30,841 - INFO - Started recording violation clip: violation_clips\violation_20250131_103630.mp4
+2025-01-31 10:36:32,438 - INFO - Stopped recording violation clip
+2025-01-31 10:36:32,642 - INFO - Started recording violation clip: violation_clips\violation_20250131_103632.mp4
+2025-01-31 10:36:32,732 - INFO - Stopped recording violation clip
+2025-01-31 10:36:33,169 - INFO - Started recording violation clip: violation_clips\violation_20250131_103633.mp4
+2025-01-31 10:36:33,224 - INFO - Stopped recording violation clip
+2025-01-31 10:36:33,642 - WARNING - Security violation detected: 3 people present
+2025-01-31 10:36:33,642 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSxby591h5.wav - use other filenames with only safe characters to avoid this.
+2025-01-31 10:36:33,643 - INFO - Started recording violation clip: violation_clips\violation_20250131_103633.mp4
+2025-01-31 10:36:33,685 - INFO - Stopped recording violation clip
+2025-01-31 10:36:34,232 - INFO - Started recording violation clip: violation_clips\violation_20250131_103634.mp4
+2025-01-31 10:36:34,277 - INFO - Stopped recording violation clip
+2025-01-31 10:36:34,378 - INFO - Started recording violation clip: violation_clips\violation_20250131_103634.mp4
+2025-01-31 10:36:34,461 - INFO - Stopped recording violation clip
+2025-01-31 10:36:34,560 - INFO - Started recording violation clip: violation_clips\violation_20250131_103634.mp4
+2025-01-31 10:36:34,651 - INFO - Stopped recording violation clip
+2025-01-31 10:36:34,819 - INFO - Started recording violation clip: violation_clips\violation_20250131_103634.mp4
+2025-01-31 10:36:34,864 - INFO - Stopped recording violation clip
+2025-01-31 10:36:35,212 - INFO - Started recording violation clip: violation_clips\violation_20250131_103635.mp4
+2025-01-31 10:36:35,311 - INFO - Stopped recording violation clip
+2025-01-31 10:36:35,933 - INFO - Started recording violation clip: violation_clips\violation_20250131_103635.mp4
+2025-01-31 10:36:36,068 - INFO - Stopped recording violation clip
+2025-01-31 10:36:38,802 - WARNING - Security violation detected: 1 people present
+2025-01-31 10:36:38,802 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSbfmz94bi.wav - use other filenames with only safe characters to avoid this.
+2025-01-31 10:36:38,804 - INFO - Started recording violation clip: violation_clips\violation_20250131_103638.mp4
+2025-01-31 10:36:38,937 - INFO - Stopped recording violation clip
+2025-01-31 10:36:39,771 - ERROR - 
+    Error 305 for command:
+        close "C:\Users\DELL\AppData\Local\Temp\PSbfmz94bi.wav"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2025-01-31 10:36:39,772 - WARNING - Failed to close the file: "C:\Users\DELL\AppData\Local\Temp\PSbfmz94bi.wav"
+2025-01-31 10:36:42,688 - INFO - Shutting down Vault Security System
+2025-01-31 10:36:43,052 - INFO - Shutting down Vault Security System
+2025-01-31 10:36:43,052 - INFO - Shutting down Vault Security System
+2025-01-31 10:36:43,053 - INFO - Shutting down Vault Security System

@@ -1,0 +1,64 @@
+2025-01-28 11:24:55,676 - INFO - Logging system initialized successfully
+2025-01-28 11:24:55,676 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:24:57,678 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:24:59,679 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:28:18,789 - INFO - Logging system initialized successfully
+2025-01-28 11:28:18,790 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:28:20,791 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:28:22,802 - ERROR - Error connecting to camera: 'rtsp://127.0.0.1:8554/stream'
+2025-01-28 11:36:07,434 - INFO - Logging system initialized successfully
+2025-01-28 11:36:40,692 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 11:37:16,331 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 11:37:51,976 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 15:05:24,908 - INFO - Logging system initialized successfully
+2025-01-28 15:05:25,730 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 15:05:28,582 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 15:05:31,403 - ERROR - Error connecting to RTSP stream: module 'cv2' has no attribute 'CAP_PROP_TIMEOUT'
+2025-01-28 16:34:02,567 - INFO - Logging system initialized successfully
+2025-01-28 16:34:06,743 - INFO - Starting Vault Security System
+2025-01-28 16:34:25,249 - WARNING - Security violation detected: 1 people present
+2025-01-28 16:34:25,253 - INFO - Started recording violation clip: violation_clips\violation_20250128_163425.mp4
+2025-01-28 16:34:25,258 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:34:25,261 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:34:25,261 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-28 16:34:28,269 - WARNING - Security violation detected: 1 people present
+2025-01-28 16:34:28,269 - ERROR - 
+    Error 263 for command:
+        open assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:34:28,272 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:34:28,274 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-28 16:34:28,686 - INFO - Stopped recording violation clip
+2025-01-28 16:34:52,846 - WARNING - Security violation detected: 1 people present
+2025-01-28 16:34:52,856 - INFO - Started recording violation clip: violation_clips\violation_20250128_163452.mp4
+2025-01-28 16:34:52,888 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-28 16:34:52,891 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:34:52,892 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-28 16:34:52,958 - INFO - Stopped recording violation clip
+2025-01-28 16:35:07,719 - WARNING - Security violation detected: 1 people present
+2025-01-28 16:35:07,723 - INFO - Started recording violation clip: violation_clips\violation_20250128_163507.mp4
+2025-01-28 16:35:07,744 - ERROR - 
+    Error 275 for command:
+        open assets/alarm.wav
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2025-01-28 16:35:07,747 - ERROR - 
+    Error 263 for command:
+        close assets/alarm.wav
+    The specified device is not open or is not recognized by MCI.
+2025-01-28 16:35:07,748 - WARNING - Failed to close the file: assets/alarm.wav
+2025-01-28 16:35:08,191 - INFO - Stopped recording violation clip

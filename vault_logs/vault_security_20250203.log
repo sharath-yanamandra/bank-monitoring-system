@@ -1,0 +1,16 @@
+2025-02-03 13:50:54,101 - INFO - Logging system initialized successfully
+2025-02-03 13:50:57,892 - INFO - Starting Vault Security System
+2025-02-03 13:51:09,695 - WARNING - Security violation detected: 1 people present
+2025-02-03 13:51:09,695 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSypwx7qdx.wav - use other filenames with only safe characters to avoid this.
+2025-02-03 13:51:09,705 - INFO - Started recording violation clip: violation_clips\violation_20250203_135109.mp4
+2025-02-03 13:51:12,772 - WARNING - Security violation detected: 1 people present
+2025-02-03 13:51:12,774 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSrweao8wq.wav - use other filenames with only safe characters to avoid this.
+2025-02-03 13:51:14,269 - INFO - Stopped recording violation clip
+2025-02-03 13:51:17,158 - WARNING - Security violation detected: 1 people present
+2025-02-03 13:51:17,158 - INFO - Made a temporary copy of C:/Users/DELL/Desktop/south india bank/assets/alarm.wav at C:\Users\DELL\AppData\Local\Temp\PSxe5uqdsx.wav - use other filenames with only safe characters to avoid this.
+2025-02-03 13:51:17,163 - INFO - Started recording violation clip: violation_clips\violation_20250203_135117.mp4
+2025-02-03 13:51:19,047 - INFO - Shutting down Vault Security System
+2025-02-03 13:51:19,057 - INFO - Stopped recording violation clip
+2025-02-03 13:51:19,531 - INFO - Shutting down Vault Security System
+2025-02-03 13:51:19,533 - INFO - Shutting down Vault Security System
+2025-02-03 13:51:19,533 - INFO - Shutting down Vault Security System
