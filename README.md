@@ -92,7 +92,3 @@ pip install opencv-python-headless numpy ultralytics
 ## 📃 License
 
 This project is released under the MIT License. Feel free to modify and use it in your applications.
-
----
-
-Let me know if you'd like me to generate this as a downloadable file or add example screenshots.
